@@ -20,10 +20,7 @@ afterAll(async () => {
 
 describe('Auth Middleware', () => {
 
-  // admin:password: YWRtaW46cGFzc3dvcmQ=
-  // admin:foo: YWRtaW46Zm9v
 
-  // Mock the express req/res/next that we need for each middleware call
   const req = {};
   const res = {
     status: jest.fn(() => res),
