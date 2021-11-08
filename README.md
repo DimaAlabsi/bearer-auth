@@ -37,17 +37,18 @@
 
 ## Heroku applications 
 
-*   [main branch]()  
+*   [main branch](https://dimaalabsi-bearer-auth.herokuapp.com/) 
+*   https://dimaalabsi-bearer-auth.herokuapp.com/ 
 
 ## Github actions
 
-*    [actions]()      
+*    [actions](https://github.com/DimaAlabsi/bearer-auth/actions)      
 
 
 ## pull request
 
 
-* [last pull request]()
+* [last pull request](https://github.com/DimaAlabsi/bearer-auth/pull/1)
 
 
 # dependencies 💯
