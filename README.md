@@ -69,5 +69,5 @@ supertest
 ## UML
 
 
-![notes](/img/whiteboard.png)
+![notes](/img/uml.png)
 
